@@ -1,0 +1,3 @@
+[submodule "smth"]
+	path = smth
+	url = https://github.com/nikhabitmo/smth.git
